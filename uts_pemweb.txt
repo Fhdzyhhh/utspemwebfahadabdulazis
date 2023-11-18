@@ -1,5 +1,5 @@
-Nama  : Dicky Ahmad Reza Nurfauzy
-NIM   : 22416255201104
+Nama  : Fahad Abdul Azis
+NIM   : 22416255201067
 Kelas : IF22C
 UTS Pemograman Web
 
